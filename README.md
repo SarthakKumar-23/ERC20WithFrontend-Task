@@ -59,6 +59,7 @@ erc20-contract/
 │   └── package.json
 │
 └── README.md
+|__ images/
 ```
 
 ---
