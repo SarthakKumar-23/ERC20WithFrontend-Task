@@ -69,7 +69,7 @@ erc20-contract/
 ## 1. Clone Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/SarthakKumar-23/ERC20WithFrontend-Task.git
 ```
 
 ```bash
