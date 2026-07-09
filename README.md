@@ -301,6 +301,17 @@ https://sepolia.etherscan.io/address/<YOUR_CONTRACT_ADDRESS>
 
 ---
 
+## 📜 Smart Contract
+
+| Property | Value |
+|----------|-------|
+| **Network** | Sepolia Testnet |
+| **Token Standard** | ERC20 |
+| **Token Name** | Task |
+| **Token Symbol** | TSK |
+| **Solidity Version** | ^0.8.27 |
+| **Contract Address** | `0x83E87826CacCa3Ca9331Af4BEf9721F025853772 ` |
+
 # Author
 
 **Sarthak**
